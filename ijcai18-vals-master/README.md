@@ -1,3 +1,3 @@
 # sigir16-eals
-Experiments codes for SIGIR'16 paper "Fast Matrix Factorization for Online Recommendation with Implicit Feedback "
+Experiments codes for IJCAI'18 paper "Improving Implicit Recommender Systems with View Data"
 
