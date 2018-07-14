@@ -10,7 +10,7 @@ If you use the codes, please cite our paper . Thanks!
 # Requirements
 JAVA
 
-# Currently the VALS, eALS, BPR and MC-BPR are provided. We will update the code of other baselines in a near future.
+## Currently the VALS, eALS, BPR and MC-BPR are provided. We will update the code of other baselines in a near future.
 
 # Quick Start
 
